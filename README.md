@@ -1,9 +1,9 @@
-## Oiii! Eu sou a Jéssica Rodrigues 🥰
+## Hello Word! Eu sou a Jéssica Rodrigues 🥰
 
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-rodrigues-carneiro/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  )](https://www.instagram.com/jessicaribeirocantora/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white  )](https://www.instagram.com/jessicarodriguesrc/)
 
 ![Jeh-Rodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeh-Rodrigues&show_icons=true&theme=radical)
 
@@ -23,4 +23,4 @@
 
 📚 Cursando Análise e desenvolvimento de sistemas - Universidade Anchieta.
 
-💻 Cursando Full-Stack - Kaspper Academy
+💻 Cursando Java
